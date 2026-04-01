@@ -1,0 +1,15 @@
+pyrofork
+motor
+TgCrypto
+Dnspython
+aiohttp
+pytz
+aiohttp
+dnspython
+flask
+motor
+pymongo
+pyrofork
+pyrogram
+pytz
+TgCrypto
